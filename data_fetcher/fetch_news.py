@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "a4fbec0909a4442b911ef550476788dc"
+API_KEY = "use ai here"
 
 def fetch_news():
 
@@ -21,5 +21,6 @@ def fetch_news():
         })
 
     return articles
+
 
 

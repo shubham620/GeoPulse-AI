@@ -1,10 +1,10 @@
 import requests
 
-API_KEY = "NEWS_API_KEY"
+API_KEY = "a4fbec0909a4442b911ef550476788dc"
 
 def fetch_news():
 
-    url = enter your url={API_KEY}"
+    url = f"https://newsapi.org/v2/everything?q=geopolitics&language=en&apiKey={API_KEY}"
 
     response = requests.get(url)
     data = response.json()
@@ -21,4 +21,5 @@ def fetch_news():
         })
 
     return articles
+
 

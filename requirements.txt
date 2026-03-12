@@ -1,6 +1,11 @@
+streamlit
+fastapi
+uvicorn
+pandas
+plotly
 requests
 spacy
-pandas
-neo4j
-streamlit
 sentence-transformers
+neo4j
+python-dotenv
+streamlit-autorefresh

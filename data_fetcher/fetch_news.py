@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = "use ai here"
+API_KEY = "use api here"
 
 def fetch_news():
 
@@ -21,6 +21,7 @@ def fetch_news():
         })
 
     return articles
+
 
 
 

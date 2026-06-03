@@ -203,7 +203,7 @@ understand complex global developments through structured intelligence.
 
 👨‍💻 Author
 
-Shubham Raj,Kshitij Choudhary,Vishisht Magan
+Shubham Raj , kshitij
 
 B.Tech CSE (AI & ML)
 Manipal University Jaipur
